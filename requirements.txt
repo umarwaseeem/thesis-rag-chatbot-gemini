@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langchain[docarray]
+faiss-cpu # vector database
+pandas
+openpyxl
