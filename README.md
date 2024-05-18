@@ -5,13 +5,13 @@
 ## Contents
 
 
-   - 1.1 [API Key](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#1-langchain-based-retreival-augmented-generation)
-   - 1.2 [Data Preprocessing](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#12-data-preprocessing)
-   - 1.3 [Model Used](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#13-model-used)
-   - 1.4 [Vector Store](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#14-vector-store)
-   - 1.5 [Langchain Prompt Template](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#15-langchain-prompt-template)
-   - 1.6 [Retreival Chain](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#16-retreival-chain)
-   - 1.7 [Query User Interface](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/new/main?filename=README.md#17-query-user-interface)
+   - 1.1 [API Key](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#11-api-key)
+   - 1.2 [Data Preprocessing](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#12-data-preprocessing)
+   - 1.3 [Model Used](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#13-model-used)
+   - 1.4 [Vector Store](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#14-vector-store)
+   - 1.5 [Langchain Prompt Template](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#15-langchain-prompt-template)
+   - 1.6 [Retreival Chain](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#16-retreival-chain)
+   - 1.7 [Query User Interface](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#17-query-user-interface)
 
 
 ## 1 Langchain Based Retreival Augmented Generation
