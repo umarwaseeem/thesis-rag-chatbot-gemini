@@ -13,6 +13,7 @@
    - 1.6 [Retreival Chain](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#16-retreival-chain)
    - 1.7 [Query User Interface](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini?tab=readme-ov-file#17-query-user-interface)
 
+![image](https://github.com/Umar-Waseem/thesis-rag-chatbot-gemini/assets/76011160/006b81df-644c-4589-b8df-454c6c6ced71)
 
 ## 1 Langchain Based Retreival Augmented Generation
 
